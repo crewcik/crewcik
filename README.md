@@ -8,15 +8,15 @@
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=crewlua&theme=dark&show_icons=true&locale=en&layout=compact" alt="crewlua"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=crewlua&theme=dark&show_icons=true&locale=en" alt="crewlua"  ></p>
 <hr />
 
-# Crew#0057
+# Discord : Crew#0057
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Linkler**
 <p align="left">
-<a href="https://discord.gg/hu6XpsVxnP" target"blank_"><img src="https://img.shields.io/badge/Raxe Yazılım%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://instagram.com/yigitx.pdf" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-</br><img src="https://komarev.com/ghpvc/?username=crewlua&color=dc143c"/>
+<a href="https://discord.gg/hu6XpsVxnP" target"blank_"><img src="https://img.shields.io/badge/Raxe Yazılım%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=000a37"></a>
+<a href="https://instagram.com/yigitx.pdf" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=000a37"></a>
+</br><img src="https://komarev.com/ghpvc/?username=crewlua&color=000a37"/>
 <hr />
 
  
