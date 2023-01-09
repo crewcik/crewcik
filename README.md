@@ -5,7 +5,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/992903509701828679?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/992903509701828679)
 
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=crewlua&theme=dark&show_icons=true&locale=en&layout=compact" alt="crewlua"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=crewlua&theme=dark&show_icons=true&locale=en" alt="crewlua"  ></p>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=CrewLua&theme=dark&show_icons=true&locale=en&layout=compact" alt="v"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=CrewLua&theme=dark&show_icons=true&locale=en" alt="crewlua"  ></p>
 <hr />
 
 # Discord : Crew#0057
