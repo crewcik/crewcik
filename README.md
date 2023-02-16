@@ -1,4 +1,4 @@
-# Merhaba, ben Yiğit. 👋
+# Merhaba 👋
 
 </p>
 
