@@ -15,7 +15,6 @@
 🔗 &nbsp;**Linkler**
 <p align="left">
 <a href="https://discord.gg/hu6XpsVxnP" target"blank_"><img src="https://img.shields.io/badge/Raxe Yazılım%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=000a37"></a>
-<a href="https://instagram.com/yigitx.pdf" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=000a37"></a>
 </br><img src="https://komarev.com/ghpvc/?username=CrewLua&color=000a37"/>
 <hr />
 
