@@ -34,8 +34,6 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudio" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.pikpng.com/pngl/b/430-4309640_js-logo-nodejs-logo-clipart.png" alt="visualstudio" width="40" height="40"/> </a>  
 
-### Stats:
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=CrewLua&theme=dark&show_icons=true&locale=en&layout=compact" alt="crewlua"  />
-&nbsp;
-&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=CrewLua&theme=dark&show_icons=true&locale=en" alt="crewlua"  >
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=CrewLua&theme=dark&show_icons=true&locale=en" alt="crewlua"  >
 <hr />
