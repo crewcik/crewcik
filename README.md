@@ -2,7 +2,7 @@
 
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/992903509701828679?theme=light&bg=ecf&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/992903509701828679)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/992903509701828679?theme=light&bg=ecf&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Selamm!!%20doing%20something%20else...)](https://discord.com/users/992903509701828679)
 
 
 <!-- BLOG-POST-LIST:START -->
