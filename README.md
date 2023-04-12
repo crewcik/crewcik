@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm **Crew** and I'm a **Front end-Developer**
+# 👋 Hello, I'm **Crew** and I'm a **Frontend-Developer**
 
 ```js
 const crew = {
