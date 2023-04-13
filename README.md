@@ -6,7 +6,7 @@ const crew = {
     name: 'Yiğit',
     city: 'İstanbul',
     age: '18',
-    languages: ['js','vue','ts','py','php','c, c#, c+, c++','html, css', 'dart', 'lua'],
+    languages: ['js','vue','ts','py','php','c, c#, c+, c++','html, css', 'dart', 'lua', 'rust'],
     project: 'Raxe'
 }
 console.log(crew)
