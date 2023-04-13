@@ -22,8 +22,8 @@ console.log(crew)
 
 <details>
     <summary>GitHub Stats / Discord Presence:</summary>
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=crewcik&theme=dark&show_icons=true&locale=en&layout=compact" alt="crewcik"/>
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=crewcik&theme=dark&show_icons=true&locale=en" alt="crewcik"/>
+    <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=crewcik&theme=dark&show_icons=true&locale=en&layout=compact" alt="crewcik"/>
+    <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=crewcik&theme=dark&show_icons=true&locale=en" alt="crewcik"/>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/992903509701828679?theme=light&bg=ecf&animated=false&hideDiscrim=true&borderRadius=25px&idleMessage=;D)](https://discord.com/users/992903509701828679)
 </details>
