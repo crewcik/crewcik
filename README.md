@@ -18,7 +18,7 @@ const lang = {
 crew.send({ content: lang })
 ```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crewcik" alt="crewcik" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=crewcik&theme=onedark)](https://github.com/crewcik)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
