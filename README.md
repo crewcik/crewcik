@@ -1,4 +1,3 @@
-
 # 👋 Hello, I'm **Crew** and I'm a **Front-end Developer**
 
 ```js
@@ -6,11 +5,20 @@ const crew = {
     name: 'Yiğit',
     city: 'İstanbul',
     age: '18',
-    languages: ['js','vue','ts','py','php','c, c#, c+, c++','html, css', 'dart', 'lua', 'rust'],
     project: 'Raxe'
 }
 console.log(crew)
 ```
+
+```js
+const lang = {
+    langues: ['js','vue','ts','py','php','c +','html, css', 'dart','lua', 'rust'],
+    favorite: ['js', 'lua', 'py']
+}
+crew.send({ content: lang })
+```
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crewcik" alt="crewcik" /></a> </p>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -21,9 +29,10 @@ console.log(crew)
 </br><img src="https://komarev.com/ghpvc/?username=crewcik&"/>
 
 <details>
-    <summary>GitHub Stats / Discord Presence:</summary>
-    <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=crewcik&theme=dark&show_icons=true&locale=en&layout=compact" alt="crewcik"/>
-    <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=crewcik&theme=dark&show_icons=true&locale=en" alt="crewcik"/>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/992903509701828679?theme=light&bg=ecf&animated=false&hideDiscrim=true&borderRadius=25px&idleMessage=;D)](https://discord.com/users/992903509701828679)
+<summary>Daha fazlası</summary>
+<img align="5px" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=crewcik&theme=dark&show_icons=true&locale=en&layout=compact" alt="crewcik"/>
+<img align="auto" width="50%" src="https://github-readme-stats.vercel.app/api?username=crewcik&theme=dark&show_icons=true&locale=en" alt="crewcik"/>
+<img align="auto" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=crewcik&" alt="crewcik" />
+ 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/992903509701828679?theme=light&bg=ecf&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Starlarsangüzelolur)](https://discord.com/users/992903509701828679)
 </details>
