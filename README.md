@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Crew** and I'm a **Front-end Developer**
+# 👋 Hello, I'm **Crew** and I'm a **SoftWare Developer**
 
 ```js
 const crew = {
