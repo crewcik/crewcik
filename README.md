@@ -10,14 +10,6 @@ const crew = {
 console.log(crew)
 ```
 
-```js
-const lang = {
-    langues: ['js','vue','ts','py','php','c +','html, css', 'dart','lua', 'rust'],
-    favorite: ['js', 'lua', 'py']
-}
-crew.send({ content: lang })
-```
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=crewcik&theme=onedark)](https://github.com/crewcik)
 
 <!-- BLOG-POST-LIST:START -->
