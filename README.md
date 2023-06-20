@@ -20,7 +20,8 @@ console.log(crew)
 <a href="https://discord.com/users/992903509701828679" target"blank_"><img src="https://img.shields.io/badge/Crew%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor"></a>
 </br><img src="https://komarev.com/ghpvc/?username=crewcik&"/>
 
-<<img src="https://luppufy.onrender.com/992903509701828679">>?border=<hexColor>
+<img src="https://luppufy.onrender.com/992903509701828679">
+
 <details>
 <summary>Daha fazlası</summary>
 <img align="5px" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=crewcik&theme=dark&show_icons=true&locale=en&layout=compact" alt="crewcik"/>
