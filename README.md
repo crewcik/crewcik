@@ -1,6 +1,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
+
 <p align="left">
 <a href="https://discord.gg/hu6XpsVxnP" target"blank_"><img src="https://img.shields.io/badge/Raxe Support%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor"></a>
 <a href="https://discord.com/users/992903509701828679" target"blank_"><img src="https://img.shields.io/badge/Crew%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor"></a>
