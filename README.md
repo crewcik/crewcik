@@ -1,9 +1,3 @@
-# 👋 Selam!
-
-Selam ben yiğit, 18 yaşındabir geliştiriciyim. Genel olarak tüm dillere hakimim. Github üzerinde sizlere yararlı olacak kodlar paylaşıyorum. 
-
-# 📨 İletişim
-Benimle iş birliği yapmak için [discord](https://discord.com/users/992903509701828679) veya [G-MAİL](crewcik@gmail.com) üzerinden iletişime geçebilirsiniz.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
@@ -13,8 +7,6 @@ Benimle iş birliği yapmak için [discord](https://discord.com/users/9929035097
 </br><img src="https://komarev.com/ghpvc/?username=crewcik&"/>
 
 <details>
-<summary>GitHub İstatistik</summary>
-
 <img align="5px" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=crewcik&theme=dark&show_icons=true&locale=en&layout=compact" alt="crewcik"/>
 <img align="auto" width="50%" src="https://github-readme-stats.vercel.app/api?username=crewcik&theme=dark&show_icons=true&locale=en" alt="crewcik"/>
 <img align="auto" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=crewcik&" alt="crewcik" />
