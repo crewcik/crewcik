@@ -1,11 +1,13 @@
 <h3>Crew 👋</h3>
 
-# Aboutme
+# About me
 
 __Hi, I'm Crew, 19 years old, I'm a developer. I have a bot approved for Discord. My projects, each more beautiful than the other, are available on github. I know 16 software languages ​​in total, but I love python, javascript, php the most, always write code 😃__
 
 # Reach me
 - Feel free to DM me on [Discord] (name: `Crew`, id: `992903509701828679`)
+- [www.raxebot.com.tr](www.raxebot.com.tr)
+- [www.oceanbilisim.com.tr](www.oceanbilisim.com.tr)
 
 
 # Stats
