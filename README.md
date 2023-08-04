@@ -1,11 +1,16 @@
 <h3>Crew 👋</h3>
+<td>
+  <tr>
+   <img src="https://cdn.discordapp.com/attachments/1039241382252003349/1136867882416996453/3954-hello-cube_1.png">
+  </tr>
+</td>
 
 # About me
 
 __Hi, I'm Crew, 19 years old, I'm a developer. I have a bot approved for Discord. My projects, each more beautiful than the other, are available on github. I know 16 software languages ​​in total, but I love python, javascript, php the most, always write code 😃__
 
 # Reach me
-- Feel free to DM me on [Discord] (name: `Crew`, id: `992903509701828679`)
+- Feel free to DM me on [Discord] ( name: `Crew`, id: `992903509701828679` )
 - [www.raxebot.com.tr](www.raxebot.com.tr)
 - [www.oceanbilisim.com.tr](www.oceanbilisim.com.tr)
 
@@ -23,16 +28,4 @@ __Hi, I'm Crew, 19 years old, I'm a developer. I have a bot approved for Discord
   </tr>
 </table>
 
-[Discord]:                      https://discord.com
-[Discord Certified Moderator]:  https://dis.gd/modbadge
-[Docker]:                       https://www.docker.com
-[TypeScript]:                   https://www.typescriptlang.org
-[Node.JS]:                      https://nodejs.org
-[PostgreSQL]:                   https://www.postgresql.org
-[Caddy]:                        https://caddyserver.com
-[NGINX]:                        https://www.nginx.com
-[Redis]:                        https://redis.io
-[ELK]:                          https://www.elastic.co/elastic-stack
-[ChatSift]:                     https://github.com/ChatSift
-[Gaius]:                        https://gaiusbot.me
-[Keybase]:                      https://keybase.io/didinele
+[Discord]:                      https://discord.com/users/992903509701828679
