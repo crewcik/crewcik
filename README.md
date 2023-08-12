@@ -1,7 +1,7 @@
 <h3>Crew 👋</h3>
 <td>
   <tr>
-   <img src="[https://cdn.discordapp.com/attachments/1039241382252003349/1136867882416996453/3954-hello-cube_1.png](https://media.discordapp.net/attachments/1035606277168042094/1038901299854458960/ezgif-2-1d011cf9a1.gif)">
+   <img src="https://media.discordapp.net/attachments/1035606277168042094/1038901299854458960/ezgif-2-1d011cf9a1.gif">
   </tr>
 </td>
 
