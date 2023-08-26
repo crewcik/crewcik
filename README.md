@@ -1,7 +1,7 @@
 <h3>Crew 👋</h3>
 <td>
   <tr>
-   <img src="https://cdn.discordapp.com/attachments/1130083841470644306/1144800757376364684/crewmaia.png" margin="200px">
+   <img src="https://cdn.discordapp.com/attachments/1130083841470644306/1144800757376364684/crewmaia.png" margin="280px">
   </tr>
 </td>
 
