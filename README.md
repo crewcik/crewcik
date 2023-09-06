@@ -1,10 +1,4 @@
 <h3>Crew 👋</h3>
-<td>
-  <tr>
-   <img src="https://cdn.discordapp.com/attachments/1039241382252003349/1144909621455224842/crewmaia_1.png" margin="280px">
-  </tr>
-</td>
-
 # About me
 
 __Hi, I'm Crew, 19 years old, I'm a developer. I have a bot approved for Discord. My projects, each more beautiful than the other, are available on github. I know 16 software languages ​​in total, but I love python, javascript, php the most, always write code 😃__
