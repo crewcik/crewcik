@@ -1,11 +1,11 @@
-<h3>Crew 👋</h3>
+<h3>Crew 👋, I'am Full Sinek Developer.</h3>
 
 # About me
 
 __Hi, I'm Crew, 19 years old, I'm a developer. I have a bot approved for Discord. My projects, each more beautiful than the other, are available on github. I know 16 software languages ​​in total, but I love python, javascript, php the most, always write code 😃__
 
 # Reach me
-- Feel free to DM me on [Discord] ( name: `Crew`, id: `992903509701828679` )
+- Feel free to DM me on [Discord] ( name: `Crew`, id: `1109430588714254439` )
 - [www.raxebot.com.tr](www.raxebot.com.tr)
 - [www.oceanbilisim.com.tr](www.oceanbilisim.com.tr)
 
@@ -23,4 +23,4 @@ __Hi, I'm Crew, 19 years old, I'm a developer. I have a bot approved for Discord
   </tr>
 </table>
 
-[Discord]:                      https://discord.com/users/992903509701828679
+[Discord]:                      https://discord.com/users/1109430588714254439
