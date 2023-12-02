@@ -1,26 +1,24 @@
-<h3>Crew 👋, I'am Full Sinek Developer.</h3>
+## Hey, I'm Crew! 👋
 
-# About me
+I'm a 19-year-old developer known as Crew, specializing in Discord bot development. I'm passionate about coding and I have a Discord bot approved for use. My GitHub hosts a collection of diverse and interesting projects, each more captivating than the last.
 
-__Hi, I'm Crew, 19 years old, I'm a developer. I have a bot approved for Discord. My projects, each more beautiful than the other, are available on github. I know 16 software languages ​​in total, but I love python, javascript, php the most, always write code 😃__
+### About Me
+- 🌟 I'm proficient in 16 programming languages, but I hold a special love for Python, JavaScript, and PHP.
+- 💻 Always writing code and diving into new projects.
+- 🤖 Creator of amazing Discord bots.
 
-# Reach me
-- Feel free to DM me on [Discord] ( name: `Crew`, id: `1109430588714254439` )
-- [www.raxebot.com.tr](www.raxebot.com.tr)
-- [www.oceanbilisim.com.tr](www.oceanbilisim.com.tr)
+### Connect with Me
+- 📧 Feel free to reach out to me on [Discord](https://discord.com/users/1109430588714254439) (Username: `Crew#0000`).
+- 🌐 Explore more about my work at [RaxeBot](https://www.raxebot.com.tr) and [OceanBilisim](https://www.oceanbilisim.com.tr).
 
-
-# Stats
-
+### My Stats
 <table>
   <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://gh-stats.didinele.me/api/?username=crewcik&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true"/>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/?username=crewcik&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true"/>
     </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://gh-stats.didinele.me/api/top-langs/?username=crewcik&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=cordis-lib/cordis;chatsift/automoderator,ama"/>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crewcik&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=cordis-lib/cordis;chatsift/automoderator,ama"/>
     </td>
   </tr>
 </table>
-
-[Discord]:                      https://discord.com/users/1109430588714254439
