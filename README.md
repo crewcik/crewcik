@@ -8,7 +8,7 @@ I'm a 19-year-old developer known as Crew, specializing in Discord bot developme
 - 🤖 Creator of amazing Discord bots.
 
 ### Connect with Me
-- 📧 Feel free to reach out to me on [Discord](https://discord.com/users/1109430588714254439) (Username: `Crew#0000`).
+- 📧 Feel free to reach out to me on [Discord](https://discord.com/users/1109430588714254439) (Username: `crew.dev`).
 - 🌐 Explore more about my work at [RaxeBot](https://www.raxebot.com.tr) and [OceanBilisim](https://www.oceanbilisim.com.tr).
 
 ### My Stats
