@@ -9,7 +9,7 @@ I'm a 19-year-old developer known as Crew, specializing in Discord bot developme
 
 ### Connect with Me
 - 📧 Feel free to reach out to me on [Discord](https://discord.com/users/1109430588714254439) (Username: `crew.dev`).
-- 🌐 Explore more about my work at [RaxeBot](https://www.raxebot.com.tr) and [OceanBilisim](https://www.oceanbilisim.com.tr).
+- 🌐 Explore more about my work at [RaxeBot](https://www.raxebot.com.tr) and [OceanBilisim](https://www.oceanbilisim.com.tr) / [OyuncuMeskeni](https://www.oyuncumeskeni.com.tr).
 
 ### My Stats
 ![Crew's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=crewcik&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true)
