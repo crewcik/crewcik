@@ -7,9 +7,21 @@ function crewMe() {
     `;
 
     console.log(crew);
+    console.log(crew_url());
 }
 
 crewMe();
+
+function crew_url() {
+    let oceanBilisim = 'www.oceanbilisim.com.tr';
+    let oyuncuMeskeni = 'www.oyuncumeskeni.com.tr';
+    let raxeBot = 'www.raxebot.com.tr';
+
+    console.log(`${oceanBilisim} - ${oyuncuMeskeni} - ${raxeBot}`);
+    console.log(`Discord username: crew.dev`)
+}
+
+crew_url(oceanBilisim, oyuncuMeskeni, raxeBot)
 ```
 
 <div align="center">
