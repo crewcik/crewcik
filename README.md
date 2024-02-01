@@ -1,7 +1,15 @@
 ```js
-I'm a 18-year-old developer known as Crew, specializing in Discord bot development.
-I'm passionate about coding and I have a Discord bot approved for use.
-My GitHub hosts a collection of diverse and interesting projects, each more captivating than the last.
+function crewMe() {
+    const crew = `
+    I'm a 18-year-old developer known as Crew, specializing in Discord bot development.
+    I'm passionate about coding and I have a Discord bot approved for use.
+    My GitHub hosts a collection of diverse and interesting projects, each more captivating than the last.
+    `;
+
+    console.log(crew);
+}
+
+crewMe();
 ```
 
 <div align="center">
