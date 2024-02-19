@@ -1,9 +1,11 @@
 ```js
 function crewMe() {
     const crew = `
-    I'm a 18-year-old developer known as Crew, specializing in Discord bot development.
-    I'm passionate about coding and I have a Discord bot approved for use.
-    My GitHub hosts a collection of diverse and interesting projects, each more captivating than the last.
+Merhaba, ben Crew. 18 yaşında bir geliştirici olarak, bilgisayar bilimlerine ve teknolojiye olan tutkumla Discord bot geliştirme konusunda uzmanlaştım. Ancak sadece bot geliştirmeyle sınırlı değilim; yapay zeka, siber güvenlik, web geliştirme ve mobil uygulama geliştirme alanlarında da kendimi oldukça yetkin hissediyorum.
+
+Kodlama tutkumla başladığım günden beri, GitHub hesabımda çeşitli ve ilginç projeleri barındırıyorum. Her bir proje, benim için yeni bir öğrenme ve keşif deneyimi sunuyor. Discord botlarımın yanı sıra, yapay zeka algoritmaları üzerinde çalışıyor, siber güvenlik önlemleri geliştiriyorum, dinamik web uygulamaları oluşturuyor ve kullanıcı dostu mobil uygulamalar geliştiriyorum.
+
+Kod yazmaktan zevk almanın yanı sıra, bir sorunu çözmek veya yeni bir fikri hayata geçirmek beni heyecanlandırıyor. Teknoloji dünyasında sürekli olarak kendimi geliştirmek ve yenilikleri takip etmek benim için bir yaşam tarzı haline geldi. Gelecekte daha da fazla projeye imza atmayı ve teknoloji alanında önemli bir rol oynamayı umuyorum.
     `;
 
     console.log(crew);
