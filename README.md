@@ -26,10 +26,10 @@ function crew_url() {
     let raxeBot = 'www.raxebot.com.tr';
 
     console.log(`${oceanBilisim} - ${oyuncuMeskeni} - ${raxeBot}`);
-    console.log(`Discord username: crew.dev`)
+    console.log(`Discord username: crew.dev`);
 }
 
-crew_url(oceanBilisim, oyuncuMeskeni, raxeBot)
+crew_url(oceanBilisim, oyuncuMeskeni, raxeBot);
 ```
 
 <div align="center">
