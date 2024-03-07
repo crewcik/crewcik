@@ -1,7 +1,7 @@
 ```js
 function crewMe() {
     const crew = `
-    Merhaba, ben Crew. 18 yaşında bir geliştirici olarak,
+    Merhaba, ben Crew. Bir geliştirici olarak,
     bilgisayar bilimlerine ve teknolojiye olan tutkumla Discord bot geliştirme konusunda uzmanlaştım.
     Ancak sadece bot geliştirmeyle sınırlı değilim; yapay zeka, siber güvenlik,
     web geliştirme ve mobil uygulama geliştirme alanlarında da kendimi oldukça yetkin hissediyorum.
