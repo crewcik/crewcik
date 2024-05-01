@@ -1,3 +1,5 @@
+https://cdn.discordapp.com/attachments/1178983069621952543/1235095377561129021/Yeni_Proje.png?ex=66331fb4&is=6631ce34&hm=8f580706b440a3f92b823f6cdbeb9028a05cbc4f3cfc51da099a90faafd5a0ca&
+
 ```js
 function crewMe() {
     const crew = `
