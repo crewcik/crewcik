@@ -12,10 +12,9 @@ crewMe();
 
 function crewUrls() {
     const oceanBilisim = 'www.oceanbilisim.com.tr';
-    const oyuncuMeskeni = 'www.oyuncumeskeni.com.tr';
     const raxeBot = 'www.raxebot.com.tr';
 
-    console.log(`${oceanBilisim} - ${oyuncuMeskeni} - ${raxeBot}`);
+    console.log(`${oceanBilisim} - ${raxeBot}`);
     console.log(`Discord username: crew.dev`);
 }
 ```
