@@ -1,5 +1,3 @@
-[![Crew's Banner](https://cdn.discordapp.com/attachments/1178983069621952543/1235095377561129021/Yeni_Proje.png?ex=66366b74&is=663519f4&hm=07e3cfc4f659ce34d0b4ca8d823886c797c34be6625c4037169d39e930141432&)](https://github.com/crewcik)
-
 ```js
 function crewMe() {
     const crew = "Merhaba ben Yiğit!"
