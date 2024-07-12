@@ -11,8 +11,9 @@ crewMe();
 function crewUrls() {
     const oceanBilisim = 'www.oceanbilisim.com.tr';
     const raxeBot = 'www.raxebot.com.tr';
+    const yigit_yazilim = 'www.yigitdev.com.tr';
 
-    console.log(`${oceanBilisim} - ${raxeBot}`);
+    console.log(`${oceanBilisim} - ${raxeBot} - ${yigit_yazilim}`);
     console.log(`Discord username: crew.dev`);
 }
 ```
