@@ -59,7 +59,6 @@
 
 ## 📫 Bana Ulaşın
 
-[![Instagram](https://img.shields.io/badge/Instagram-333333?style=flat&logo=instagram)](https://instagram.com/yigitt_dev)
 [![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail)](mailto:yazilimcrew@gmail.com)
 
 ---
