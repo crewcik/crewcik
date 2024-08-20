@@ -33,6 +33,7 @@
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=sharp)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
 
 ### Frameworkler ve Araçlar
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
