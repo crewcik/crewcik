@@ -44,6 +44,8 @@
 ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
 ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity)
+![Unreal Engine](https://img.shields.io/badge/-Unreal-333333?style=flat&logo=unreal-engine)
 
 ### Veritabanları
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
