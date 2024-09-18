@@ -7,7 +7,6 @@
 ## 🚀 Hakkımda
 
 - 🔭 Şu anda [Yiğit Yazılım Hizmetleri](https://www.yigitdev.com.tr) üzerinde çalışıyorum.
-- 🌱 Şu anda öğreniyorum: **Machine Learning**, **AI**, **Blockchain**.
 - 💬 Bana sor: **Web geliştirme**, **Mobil uygulamalar**, **Veritabanı yönetimi**.
 - 📫 Bana ulaşın: [Email](mailto:yazilimcrew@gmail.com)
 
