@@ -1,23 +1,23 @@
-![Ziyaretçi Sayısı](https://visitor-badge.laobi.icu/badge?page_id=crewcik)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=crewcik)
 
-# Merhaba! 👋 Ben Yiğit
+# Hello! 👋 I'm Yiğit
 
-**Yazılım geliştirme** ve **dijital ürünler** üzerine çalışıyorum. 🚀
+I specialize in **software development** and **digital products**. 🚀
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-- 🔭 Şu anda [Yiğit Yazılım Hizmetleri](https://www.yigitdev.com.tr) üzerinde çalışıyorum.
-- 💬 Bana sor: **Web geliştirme**, **Mobil uygulamalar**, **Veritabanı yönetimi**.
-- 📫 Bana ulaşın: [Email](mailto:yazilimcrew@gmail.com)
+- 🔭 Currently, I'm working at [Yiğit Software Services](https://www.yigitdev.com.tr).
+- 💬 Feel free to ask me about: **Web Development**, **Mobile Applications**, **Database Management**.
+- 📫 You can reach me at: [Email](mailto:yazilimcrew@gmail.com)
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Statistics
 
-| ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=crewcik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crewcik&theme=tokyonight&hide_border=true) | ![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=crewcik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
+| ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=crewcik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crewcik&theme=tokyonight&hide_border=true) | ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=crewcik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
 |------------------------|----------------|---------------------|
 
-## 🛠️ Kullandığım Teknolojiler
+## 🛠️ Technologies I Use
 
-### Diller
+### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
@@ -34,7 +34,7 @@
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
 
-### Frameworkler ve Araçlar
+### Frameworks & Tools
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
@@ -46,21 +46,19 @@
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal-333333?style=flat&logo=unreal-engine)
 
-### Veritabanları
+### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
-## 🌐 Bağlantılarım
+## 🌐 My Links
 
-- **Websiteler:**
+- **Websites:**
   - [Ocean Bilişim](https://www.oceanbilisim.com.tr)
-  - [Yiğit Yazılım](https://www.yigitdev.com.tr)
+  - [Yiğit Software](https://www.yigitdev.com.tr)
 
 - **Discord:** crew.dev
 
-## 📫 Bana Ulaşın
+## 📫 Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail)](mailto:yazilimcrew@gmail.com)
-
----
