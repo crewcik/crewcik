@@ -54,7 +54,6 @@ I specialize in **software development** and **digital products**. 🚀
 ## 🌐 My Links
 
 - **Websites:**
-  - [Ocean Bilişim](https://www.oceanbilisim.com.tr)
   - [Yiğit Software](https://www.yigitdev.com.tr)
 
 - **Discord:** crew.dev
