@@ -35,7 +35,7 @@ I specialize in **software development** and **digital products**. 🚀
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
 
 ### Frameworks & Tools
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
