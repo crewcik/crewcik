@@ -23,8 +23,6 @@ I specialize in **software development** and **digital products**. 🚀
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
