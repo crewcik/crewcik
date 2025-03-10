@@ -6,7 +6,7 @@ I specialize in **software development** and **digital products**. 🚀
 
 ## 🚀 About Me
 
-- 🔭 Currently, I'm working at [Yiğit Software Services](https://www.yigitdev.com.tr).
+- 🔭 Currently, I'm working at [OHBESOFT](https://www.ohbesoft.com).
 - 💬 Feel free to ask me about: **Web Development**, **Mobile Applications**, **Database Management**.
 - 📫 You can reach me at: [Email](mailto:yazilimcrew@gmail.com)
 
@@ -52,7 +52,7 @@ I specialize in **software development** and **digital products**. 🚀
 ## 🌐 My Links
 
 - **Websites:**
-  - [Yiğit Software](https://www.yigitdev.com.tr)
+  - [OHBESOFT](https://www.ohbesoft.com)
 
 - **Discord:** crew.dev
 
