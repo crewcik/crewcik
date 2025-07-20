@@ -6,7 +6,6 @@ I specialize in **software development** and **digital products**. 🚀
 
 ## 🚀 About Me
 
-- 🔭 Currently, I'm working at [OHBESOFT](https://www.ohbesoft.com).
 - 💬 Feel free to ask me about: **Web Development**, **Mobile Applications**, **Database Management**.
 - 📫 You can reach me at: [Email](mailto:yazilimcrew@gmail.com)
 
@@ -48,11 +47,6 @@ I specialize in **software development** and **digital products**. 🚀
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-
-## 🌐 My Links
-
-- **Websites:**
-  - [OHBESOFT](https://www.ohbesoft.com)
 
 - **Discord:** crew.dev
 
