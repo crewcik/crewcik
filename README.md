@@ -8,7 +8,6 @@ I specialize in **software development**, **cybersecurity**, and **digital produ
 
 - 💬 Feel free to ask me about: **Web Development**, **Mobile Applications**, **Database Management**, **Cybersecurity**, **Operating Systems**.
 - 🛜 Web Site: [Crew Dev](https://crewdev.com.tr)
-- 📫 Contact: [Email](mailto:yazilimcrew@gmail.com)
 - 💻 **Discord:** crew.dev  
 
 ---
