@@ -1,166 +1,324 @@
 <div align="center">
 
-# 👋 Merhaba, Ben Yiğit
+# Yiğit - Software Engineer & Security Researcher
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=crewcik)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Specialist;Digital+Product+Designer;Building+Secure+Solutions" alt="Typing SVG" />
 
-### Yazılım Geliştirici | Siber Güvenlik Uzmanı | Dijital Ürün Tasarımcısı
-
-[🌐 Web Sitesi](https://crewdev.com.tr) • 💬 Discord: **crew.dev** 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-crewdev.com.tr-0A66C2?style=for-the-badge)](https://crewdev.com.tr)
+[![Discord](https://img.shields.io/badge/Discord-crew.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+![Profile Views](https://komarev.com/ghpvc/?username=crewcik&style=for-the-badge&color=58A6FF)
 
 </div>
 
 ---
 
-## 🚀 Hakkımda
+## 🎯 About Me
 
-Yazılım geliştirme ve siber güvenlik alanlarında tutkuyla çalışan bir geliştiriciyim. Modern teknolojilerle güvenli, ölçeklenebilir ve kullanıcı dostu dijital çözümler üretiyorum.
+Passionate software engineer specializing in full-stack development and cybersecurity. I build secure, scalable, and user-centric digital solutions using cutting-edge technologies.
 
-```javascript
-const crew = {
-    role: "Full Stack Developer & Security Researcher",
-    focus: ["Web Development", "Mobile Apps", "Cybersecurity", "Database Design"],
-    currentlyLearning: "Advanced Security Architectures",
-    funFact: "Code is poetry, security is art",
-    slogan: "Siz hayal edin, ben koda dökeyim.."
+```typescript
+interface Developer {
+  name: string;
+  role: string[];
+  expertise: string[];
+  currentFocus: string;
+  philosophy: string;
+}
+
+const crew: Developer = {
+  name: "Yiğit",
+  role: ["Full Stack Developer", "Security Researcher", "Product Designer"],
+  expertise: ["Web Development", "Mobile Apps", "Cybersecurity", "System Architecture"],
+  currentFocus: "Advanced Security Architectures & Scalable Systems",
+  philosophy: "Code is poetry, security is art - You dream it, I build it."
 };
 ```
 
 ---
 
-## 🛡️ Siber Güvenlik
+## 🔐 Cybersecurity Expertise
 
-Sistem güvenliği, ağ savunması ve etik hackleme konularında deneyimliyim. Güvenlik açıklarını tespit ediyor, uygulamaları güvence altına alıyor ve güvenli dijital ortamlar oluşturuyorum.
+Specialized in penetration testing, security architecture, and ethical hacking. I identify vulnerabilities, secure applications, and build robust defense mechanisms for digital ecosystems.
 
-### 🔐 Güvenlik Araçları
+### Security Toolkit
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Kali Linux" />
+<br>Kali Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=regex" width="48" height="48" alt="Wireshark" />
+<br>Wireshark
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" width="48" height="48" alt="Metasploit" />
+<br>Metasploit
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tmux.svg" width="48" height="48" alt="Nmap" />
+<br>Nmap
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="48" height="48" alt="Burp Suite" />
+<br>Burp Suite
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+</tr>
+</table>
+
+**Security Focus Areas:** Web Application Security • Network Defense • Penetration Testing • OWASP Top 10 • Secure SDLC
+
+---
+
+## 💼 Tech Stack
+
+### Languages
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+<br>PHP
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
+<br>Rust
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" />
+<br>Go
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+<br>C#
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
+<br>Dart
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="48" height="48" alt="Ruby" />
+<br>Ruby
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="48" height="48" alt="Lua" />
+<br>Lua
+</td>
+</tr>
+</table>
+
+### Frameworks & Libraries
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
+<br>Vue.js
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
+<br>Express
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
+<br>Flutter
+</td>
+</tr>
+</table>
+
+### Databases & Cloud
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+</tr>
+</table>
+
+### Tools & Platforms
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" height="48" alt="Unity" />
+<br>Unity
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="48" height="48" alt="Unreal" />
+<br>Unreal
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48" height="48" alt="WordPress" />
+<br>WordPress
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48" height="48" alt="Blender" />
+<br>Blender
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
+<br>Photoshop
+</td>
+</tr>
+</table>
+
+### Operating Systems
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
+<br>Ubuntu
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" />
+<br>Debian
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows" />
+<br>Windows
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" alt="macOS" />
+<br>macOS
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=crewcik&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=crewcik&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
 
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker%20Security-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=crewcik&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 💻 Teknoloji Stack'im
-
-### 📝 Programlama Dilleri
+## 🏆 Achievements
 
 <div align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-</div>
-
-### 🚀 Framework'ler & Kütüphaneler
-
-<div align="center">
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-</div>
-
-### 🗄️ Veritabanları
-
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
-### 🛠️ Araçlar & Platformlar
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-</div>
-
-### 🖥️ İşletim Sistemleri
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
+  <img src="https://github-trophies.vercel.app/?username=crewcik&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" />
 </div>
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://metrics.lecoq.io/crewcik?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&theme=tokyonight" height="180"/>
-<img src="https://readme-streak.vercel.app/?user=crewcik&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://metrics.lecoq.io/crewcik?template=classic&languages=1&languages.limit=6&languages.colors=github&languages.threshold=0%&theme=tokyonight" height="180"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crewcik&custom_title=Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=0d1117&title_color=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Current Focus
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=crewcik&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Aktivite Grafiği
-
-<div align="center">
-
-[![Yiğit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=crewcik&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+```mermaid
+mindmap
+  root((Yiğit))
+    Development
+      Full Stack Apps
+      Mobile Solutions
+      API Design
+    Security
+      Penetration Testing
+      Secure Architecture
+      Threat Analysis
+    Learning
+      Cloud Native
+      Advanced Rust
+      ML Security
+```
 
 ---
 
 <div align="center">
 
-### 💬 İletişime Geçin
+### 🤝 Let's Connect & Collaborate
 
-[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://crewdev.com.tr)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://crewdev.com.tr)
+[![Discord](https://img.shields.io/badge/Discord-crew.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 ---
 
-⭐ **"Kod şiirdir, güvenlik sanattır"** ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=16&fontColor=fff&animation=twinkling" />
+
+**"Transforming ideas into secure, elegant code"** 
+
+⭐ If you find my work interesting, consider leaving a star on repositories you like!
+
 </div>
