@@ -125,10 +125,9 @@ Sistem güvenliği, ağ savunması ve etik hackleme konularında deneyimliyim. G
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=crewcik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=crewcik&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crewcik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
+<img src="https://metrics.lecoq.io/crewcik?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&theme=tokyonight" height="180"/>
+<img src="https://readme-streak.vercel.app/?user=crewcik&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://metrics.lecoq.io/crewcik?template=classic&languages=1&languages.limit=6&languages.colors=github&languages.threshold=0%&theme=tokyonight" height="180"/>
 
 </div>
 
@@ -164,7 +163,4 @@ Sistem güvenliği, ağ savunması ve etik hackleme konularında deneyimliyim. G
 ---
 
 ⭐ **"Kod şiirdir, güvenlik sanattır"** ⭐
-
-![Profile Views](https://komarev.com/ghpvc/?username=crewcik&color=blueviolet&style=for-the-badge)
-
 </div>
