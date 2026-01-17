@@ -2,7 +2,7 @@
 
 # Yiğit - Software Engineer & Security Researcher
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Specialist;Digital+Product+Designer;Full+Sinek+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity;Digital+Product+Designer;Full+Sinek+Developer" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-crewdev.com.tr-0A66C2?style=for-the-badge)](https://crewdev.com.tr)
 [![Discord](https://img.shields.io/badge/Discord-crew.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
