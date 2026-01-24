@@ -27,6 +27,7 @@ interface Developer {
 
 const crew: Developer = {
   name: "Yiğit",
+  age: 20,
   role: ["Full Stack Developer", "Security Researcher", "Product Designer"],
   expertise: ["Web Development", "Mobile Apps", "Cybersecurity", "System Architecture"],
   currentFocus: "Advanced Security Architectures & Scalable Systems",
