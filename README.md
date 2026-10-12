@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yiğit - Software Engineer & Security Researcher
+# Yiğit :)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity;Digital+Product+Designer;Full+Sinek+Developer" alt="Typing SVG" />
 
